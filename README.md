@@ -1,8 +1,10 @@
 # BookBot
 
-A program that counts the characters and vowels.
+A program that counts the characters, vowels and more with a modren finish.
 
 ## Features
+
+* Gives you the TOP 10 words
 
 * Reads text files
 
