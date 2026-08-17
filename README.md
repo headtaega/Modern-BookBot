@@ -1,6 +1,6 @@
 # BookBot
 
-A program that counts the characters, vowels and more with a modren finish.
+A program that counts the characters, vowels and more with a modern finish.
 
 ## Features
 
